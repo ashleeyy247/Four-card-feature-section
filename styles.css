@@ -30,20 +30,20 @@ p {
 
 .description {
   text-align: center;
-  margin: 32px 24px;
+  margin: 48px 24px;
 }
 
 .title {
   color: var(--grey-400);
   font-weight: var(--fw-light);
-  font-size: 24px;
+  font-size: 32px;
 }
 
 .subtitle,
 .card-header {
   color: var(--grey-500);
   font-weight: var(--fw-semibold);
-  font-size: 24px;
+  font-size: 32px;
 }
 
 .caption {
@@ -106,7 +106,7 @@ p {
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin: 0px 10%;
+    margin: 48px 10%;
   }
   .description {
     width: 45%;
